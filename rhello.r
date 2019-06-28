@@ -1,3 +1,4 @@
+#rhello.r
 setwd("~/rstudio")
 getwd()
 #setwd("c:\\Users\\natasa\\rwork")
